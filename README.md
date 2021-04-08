@@ -1,6 +1,6 @@
 ## spa-employees-table
 
-# Explicit and charming SPA to work with a database
+# Explicit and charming SPA to work with a database table
 
 ![screen1](https://user-images.githubusercontent.com/75623459/114057692-737f2f80-989b-11eb-833b-7978fcba750a.jpg)
 
@@ -13,7 +13,7 @@
 
 ![](https://media.giphy.com/media/Shd62SA3WycuouxPZG/giphy.gif)
 
-## Features:
+# Features:
 
 ### - `Search through a database table with a versatile real-time search`
 ![screen2_2](https://user-images.githubusercontent.com/75623459/114061568-416fcc80-989f-11eb-8c5f-4c05d0032c2b.jpg)
@@ -25,7 +25,7 @@
 <br />
 <br />
 
-### - `Form validation`
+### - `Form validation upon submit`
 ![screen4_2](https://user-images.githubusercontent.com/75623459/114062692-77fa1700-98a0-11eb-89f7-966481d96394.jpg)
 <br />
 <br />
