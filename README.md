@@ -8,7 +8,7 @@
 
 #### - Search through a database table with a versatile real-time search
 
-#### - All CRUD operations are presented. Create, Read, Update, Delete
+#### - All CRUD operations are presented: Create, Read, Update, Delete
 
 #### - Notification messages upon every action
 
