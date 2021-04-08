@@ -2,7 +2,11 @@
 
 ## Explicit and charming SPA to work with a database
 
+### `Add/Search(View)`
+
 ![](https://media.giphy.com/media/1XGplPaDnbFfR7xx9L/giphy.gif)
+
+### `Edit/Delete`
 
 ![](https://media.giphy.com/media/Shd62SA3WycuouxPZG/giphy.gif)
 
