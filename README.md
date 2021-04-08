@@ -6,7 +6,7 @@
 
 ![](https://media.giphy.com/media/1XGplPaDnbFfR7xx9L/giphy.gif)
 
-![](https://media.giphy.com/media/fM8EJVX3d2FLYpOSLN/giphy.gif)
+![](https://media.giphy.com/media/SSIEve2A1YrVtaMilE/giphy.gif)
 
 ### `Edit/Delete`
 
