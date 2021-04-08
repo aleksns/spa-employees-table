@@ -2,11 +2,12 @@
 
 ## Explicit and charming SPA to work with a database
 
+![screen1](https://user-images.githubusercontent.com/75623459/114057692-737f2f80-989b-11eb-833b-7978fcba750a.jpg)
+
 ### `Add/Search(View)`
 
 ![](https://media.giphy.com/media/1XGplPaDnbFfR7xx9L/giphy.gif)
 
-![](https://media.giphy.com/media/SSIEve2A1YrVtaMilE/giphy.gif)
 
 ### `Edit/Delete`
 
