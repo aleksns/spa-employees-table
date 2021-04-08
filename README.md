@@ -4,6 +4,8 @@
 
 ![](https://media.giphy.com/media/1XGplPaDnbFfR7xx9L/giphy.gif)
 
+![](https://media.giphy.com/media/Shd62SA3WycuouxPZG/giphy.gif)
+
 ## `Features:`
 
 #### - Search through a database table with a versatile real-time search
