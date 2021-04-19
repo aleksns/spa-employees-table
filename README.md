@@ -6,7 +6,7 @@
 
 ## Overview
 
-This application allows to operate with work-related/personal information of an employee. Connect to your database and 
+This application allows to operate with work-related/personal information of an employee.
 
 ## Features
 
@@ -66,10 +66,20 @@ This application allows to operate with work-related/personal information of an 
 <br />
 
 
-## `Install:`
-...description in progress...
+## `Installation:`
+ How it works: the app connects to your database server and performs all CRUD requests. Therefore you need to have a database table with matching table name and table values. Of course, you can keep your own naming, but in that case, make changes in java files.
+
+1. You need to have a table in a database of your choice. Since name of values may differ in every database table, make sure, the core values are matching
+`src\main\java\com\aleksns\employees\application\employee\Employee.java`. (I used PostgreSQL, if you are going to use a different database, add new dependancies in `pom.xml` file).
+
+2. Populate `src\main\resources\application.properties` with your database name, login and password.
+
+3. Open the folder `spa-employees-table\target` in `cmd` and enter: `java -jar spa-employees-table-0.0.1-SNAPSHOT.jar`
+
+4. Open the application in a browser of your choice, go to `http://localhost:8080/`
+
 
 ### Other info:
 -Values listed in the table (first name, last name, email, etc) are for reference and can be replaced with anything that suits your needs.\
 -Table values were created with random data generator https://www.mockaroo.com/ \
--Made with love and passion using React, Java, PostgreSQL
+-Made with love and passion using React, Java, PostgreSQL, Spring Boot, Hibernate, Material-UI, axios, react-number-format, react-router, react-notifications...
