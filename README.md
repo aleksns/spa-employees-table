@@ -67,7 +67,7 @@ This application allows to operate with work-related/personal information of an 
 
 
 ## `Installation:`
- How it works: the app connects to your database server and performs all CRUD requests. Therefore you need to have a database table with matching table name and table values. Of course, you can keep your own naming, but in that case, make changes in java files.
+ How it works: the app connects to your database server and performs all CRUD requests. Therefore you need to have a database table with matching table name and table values. Of course, you can keep your own naming, but in that case, make changes in java files. Example of creating a table can be found in the `/dbCreateTableExample.md` file.
 
 1. You need to have a table in a database of your choice. Since name of values may differ in every database table, make sure, the core values are matching
 `src\main\java\com\aleksns\employees\application\employee\Employee.java`. (I used PostgreSQL, if you are going to use a different database, add new dependancies in `pom.xml` file).
